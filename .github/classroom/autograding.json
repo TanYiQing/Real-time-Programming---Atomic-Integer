@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Testing",
+      "setup": "",
+      "run": "javac src/MyAtomic.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
