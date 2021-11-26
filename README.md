@@ -1,6 +1,6 @@
 ## Your Info:
-1. Matric Number:
-1. Name:
+1. Matric Number: 270607
+1. Name: Tan Yi Qing
 
 ## Instruction:
 
@@ -48,3 +48,5 @@ Total = 285
 ```
 
 ## Your Output/Result
+![output1](./images/output1.png)
+![output2](./images/output2.png)
