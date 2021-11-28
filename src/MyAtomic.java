@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class MyAtomic {
 
-
     public static void main(String[] args) throws InterruptedException {
         Action action = new Action();
         int x;
