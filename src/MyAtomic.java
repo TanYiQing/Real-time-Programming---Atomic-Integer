@@ -10,6 +10,7 @@ public class MyAtomic {
         Scanner scan=new Scanner(System.in);
         System.out.print("Please input x:");
         x=scan.nextInt();
+        System.out.println();
         action.setStartPoint(x);
 
         Thread t1=new Thread(action);
